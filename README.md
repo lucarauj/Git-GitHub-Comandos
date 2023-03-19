@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/School-Node-MJV/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/Git-GitHub-Comandos/blob/main/LICENSE)
 
 <h1 align="center">Comandos Git/GitHub</h1>
 
