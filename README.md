@@ -192,6 +192,15 @@ git reset --hard HEAD~1 [volta ao estado do penúltimo commit]
 git revert "número do hash"
 ```
 
+## Desfazendo último commit e push no repositório remoto:
+
+```
+git reset --hard HEAD~1
+```
+```
+git push --force
+```
+
 ## Atualizando repositório local em relação ao remoto:
 
 ```
