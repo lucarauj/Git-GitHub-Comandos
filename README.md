@@ -156,6 +156,12 @@ git clean -df
 git checkout -- .
 ```
 
+## Desfazendo alterações que não foram enviadas para o stage:
+
+```
+git restore <nome do arquivo + extensão>
+```
+
 ## Retirando arquivos/modificações do stage (add .):
 
 ```
