@@ -62,6 +62,13 @@ git commit -m "Mensagem do trabalho adicionado"
 git push
 ```
 
+## Clonando um projeto (branch específica):
+
+```
+git clone git@github.com:"usuario"/"repositório criado".git --branch <nome da branch> --single-branch
+```
+
+
 ## Modificando mensagem do commit:
 
 ```
