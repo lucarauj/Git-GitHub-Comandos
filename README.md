@@ -180,6 +180,10 @@ git restore <nome do arquivo + extensão>
 git status
 git reset
 ```
+```
+git status
+git reset <nome do arquivo>
+```
 
 ## Editor VIM:
 
