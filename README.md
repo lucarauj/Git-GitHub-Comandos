@@ -62,6 +62,12 @@ git commit -m "Mensagem do trabalho adicionado"
 git push
 ```
 
+## Modificando mensagem do commit:
+
+```
+git commit --amend -m "Nova mensagem" 
+```
+
 ## Navegando entre pastas no Git:
 
 ```
