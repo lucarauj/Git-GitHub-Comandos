@@ -88,6 +88,12 @@ git log
 git log --oneline (forma resumida)
 ```
 
+## Explorando a movimentação de um repositório (com detalhes):
+
+```
+git reflog
+```
+
 ## Verificando a diferença entre modificações:
 
 ```
