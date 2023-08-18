@@ -235,6 +235,9 @@ git push --force
 git status 
 git pull "nome do remoto" "nome do branch"
 ```
+```
+git pull = git fetch + git merge
+```
 
 ## Push rejeitado:
 
