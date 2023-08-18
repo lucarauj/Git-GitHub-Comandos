@@ -130,6 +130,12 @@ git checkout "outra branch"
 git checkout -b "nome-da-branch"
 ```
 
+## Verificando o último commit das branches:
+
+```
+git branch -v
+```
+
 ## Deletando uma brach:
 
 ```
