@@ -197,6 +197,9 @@ git reset
 git status
 git reset <nome do arquivo>
 ```
+```
+git reset HEAD <nome do arquivo>
+```
 
 ## Editor VIM:
 
