@@ -287,6 +287,23 @@ git stash
 git stash list
 ```
 
+## Criando uma tag (demarcando ponto):
+
+```
+git tag -a v1.0 -m "primeira tag"
+```
+```
+git tag
+```
+```
+git show v1.0
+```
+```
+git push origin --tags
+```
+
+<br>
+
 ## Autor
 
 #### Lucas Araujo
