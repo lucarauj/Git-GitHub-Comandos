@@ -249,8 +249,9 @@ git pull "nome do remoto" "nome do branch"
 git pull = git fetch + git merge
 ```
 ```
-git fetch && git pull
+git fetch && git pull*
 ```
+>**Garante as últimas alterações do repositório remoto e que essas alterações sejam mescladas automaticamente na sua branch local*
 
 ## Push rejeitado:
 
